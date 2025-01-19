@@ -21,7 +21,7 @@ the risk of having cervical cancer. The presence of hormones in oral contracepti
 
 data taken from: https://www.kaggle.com/datasets/ranzeet013/cervical-cancer-dataset
 ## Author
-Bhanu Sharma \
+Bhanu Sharma 
 email: sbhanu192@gmail.com \
 
 
